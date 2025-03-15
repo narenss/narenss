@@ -1,5 +1,5 @@
 # 💫 About Me:
-###👋 Hi, I'm Naren <br><br>💡 Passionate about AI, ML, Cloud Computing and Cybersecurity.<br><br><br>### 📫 Connect  <br>🔗 https://www.linkedin.com/in/narens23/
+###👋 Hi, I'm Naren <br><br>💡 Passionate about AI, ML, Cloud Computing and Cybersecurity.<br><br>### 📫 Connect  <br>🔗 https://www.linkedin.com/in/narens23/
 
 
 ## 🌐 Socials:
