@@ -1,5 +1,5 @@
-#💫 About Me:
-👋 Hi, I'm Naren <br><br>💡 Passionate about AI, ML, Cloud Computing and Cybersecurity.
+# 💫 About Me:<br>
+👋 Hi, I'm Naren Suriyanarayanan! <br>💡 A pre-final year student who's passionate about AI, ML, Cloud Computing and Cybersecurity.
 
 
 ## 🌐 Socials:
